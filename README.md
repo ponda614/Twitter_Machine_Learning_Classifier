@@ -28,5 +28,14 @@ The objective is to create a classifier that can effectively replace the human e
 | nltk                                      | Natural Language Toolkit for tasks such as tokenization, stemming, and part-of-speech tagging.(Mainly Used for Training |
 | re                                        | Built-in library for working with regular expressions.                                                          |
 | spaCy                                     | Modern NLP library for efficient and scalable natural language processing tasks. (Preferred over nltk)                              |
-| sklearn.model_selection                   | Module for model selection and evaluation, including cross-validation and train-test splitting, linear models, including Logistic Regression, feature extraction from text data, such as TF-IDF vectorization,  constructing pipelines of multiple steps in machine learning workflows.                   |
+| sklearn.model_selection/linear_model/feature_extraction.text/pipeline                   | Module for model selection and evaluation, including cross-validation and train-test splitting, linear models, including Logistic Regression, feature extraction from text data, such as TF-IDF vectorization,  constructing pipelines of multiple steps in machine learning workflows.                   |
+| WordNet                                   | Lexical database for English language, used for tasks such as synonym extraction and word sense disambiguation. |
+| Contradiction                             | Library for contradiction detection in text, used for identifying contradictory statements in textual data.     |
+| emoji                                     | Library for handling emojis in Python.                                                                         |
+| gensim                                    | Library for topic modeling and document similarity analysis.                                                    |
+| wordcloud                                 | Library for generating word clouds from text data.                                                              |
+| swifter                                   | Library for speeding up Pandas apply() function.                                                               |
+| collections.Counter                       | Built-in library for counting hashable objects in Python.                                                       |
+| wordninja                                 | Library for splitting concatenated words into separate words.                                                   |
+| num2words                                 | Library for converting numbers to words in various languages.                                                   |
 
