@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Libraries](#Libraries)
-- [Usage](#usage)
+- [Explanation](#Explanation)
 - [Results](#results)
 
 
